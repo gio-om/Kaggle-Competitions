@@ -5,3 +5,4 @@ test_sessions.csv
 test_session_text.text
 site_dic.pkl
 logit_subm1.txt
+day_time_session_time_year_logit_pred.txt
